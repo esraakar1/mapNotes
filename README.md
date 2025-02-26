@@ -18,4 +18,5 @@ This project allows users to add, edit, and delete notes on a map by selecting s
 - **Leaflet.js**: For rendering and interacting with the map.
 - **LocalStorage**: For storing notes locally on the user's browser.
 
-gif
+gif![ezgif-6e4986bc94dbe7](https://github.com/user-attachments/assets/f8b590e5-138e-4607-bba5-2b24bc49ba71)
+
